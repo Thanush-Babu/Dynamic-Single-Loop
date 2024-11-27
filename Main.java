@@ -13,8 +13,8 @@ public class Main {
         String listName = "" ;
         String listvalues = "";
         int i = 0;
-        List<String> listNames = new ArrayList<>();
-        List<List<Object>> lists = new ArrayList<>();
+        List <String> listNames = new ArrayList<>();
+        List <List<Object>> lists = new ArrayList<>();
         System.out.println("(type 'exit' to quit)");
         while (!listName.equals("exit")) {
             // System.out.println("Enter List " + (i+1) + " name : ");
